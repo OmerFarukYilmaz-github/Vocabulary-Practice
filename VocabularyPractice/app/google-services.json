@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637248358087",
+    "project_id": "vocabulary-practice-5f46d",
+    "storage_bucket": "vocabulary-practice-5f46d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637248358087:android:141675aefc7490cdcca0e2",
+        "android_client_info": {
+          "package_name": "com.example.VocabularyPractice.ui.translater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637248358087-g438fmjab2km4orhtrf3jt01ffnepsi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFLfRp34Oq7KWFV5hBblTXxzKHdwo5a5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637248358087-g438fmjab2km4orhtrf3jt01ffnepsi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
